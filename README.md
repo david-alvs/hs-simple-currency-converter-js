@@ -56,7 +56,7 @@ Follow these steps to run the project locally on your machine.
 Run the application using Node.js:
 
 ```bash
-node main.js
+node index.js
 ```
 
 ## 🧠 What I Learned
